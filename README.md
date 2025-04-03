@@ -39,7 +39,7 @@ The provided Jupyter Notebook ```(mail_category_classification.ipynb)``` contain
 ```jupyter notebook mail_category_classification.ipynb```
 #### 2: Run all cell
 
-______________________________________________
+---
 
-## Done
+Done
 
